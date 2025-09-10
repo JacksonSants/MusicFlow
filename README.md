@@ -1,4 +1,4 @@
-# 🎶🎧MusicFl
+# 🎶🎧MusicFlow
 
 Futuras funcionalidades principais:
 - 🎼Cadastro e listagem de músicas
